@@ -44,7 +44,7 @@
  ###### Currently I'm doing-
 + Exploring backend technology : Focus on MongoDB database , implementation of CRUD operations.
 + Researching more about website security : Investigation of various security measures for websites like JWT.
-+ NPM package exploration: : Exploring the diverse range of npm packages available.
++ Exploration: : Exploring Next.js, build-in authentication (like Kinde) and different types of npm package.
 
 ###
 <br clear="both">
@@ -60,6 +60,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
