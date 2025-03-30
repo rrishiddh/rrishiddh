@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
       </a>
 
-  <a href="https://rahul-dey.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Rahul%20D.&logo=slack&label=&color=gray&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
-  </a>
+  <!--<a href="https://rahul-dey.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Rahul%20D.&logo=slack&label=&color=gray&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />/*
+  </a>-->
   <a href="mailto:rrishiddh@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
@@ -38,13 +38,13 @@
 <h2 align="center"> About Me </h2>
 
 ###
-<p align="left">I'm Rahul Dey, a frontend developer bridging the gap between engineering precision and elegant design. With a background in Electrical and Electronics Engineering, I bring a unique perspective to crafting intuitive and performant web experiences. I'm passionate about React, exploring cutting-edge technologies, and building impactful digital products.</p>
+<p align="left">I'm Rahul Dey, a frontend developer bridging the gap between engineering precision and elegant design. With a background in Electrical and Electronics Engineering, I bring a unique perspective to crafting intuitive and performant web experiences. I'm passionate about React, exploring cutting-edge technologies and building impactful digital products.</p>
 
 
  ###### Currently I'm doing-
-+ Exploring backend technology : Focus on MongoDB database , implementation of CRUD operations.
-+ Researching more about website security : Investigation of various security measures for websites like JWT.
-+ Exploration: : Exploring Next.js, build-in authentication (like Kinde) and different types of npm package.
++ Building backend functionality with Mongoose for MongoDB, focusing on CRUD operations.
++ Strengthening web security protocols and establishing a CI/CD pipeline for efficient deployment.
++ Deep diving into Next.js, exploring payment gateway integration and utilizing various npm packages.
 
 ###
 <br clear="both">
