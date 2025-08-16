@@ -29,40 +29,42 @@
 <h1 align="left"><b>Hey, This is RAHUL D. </b><img src="https://raw.githubusercontent.com/rrishiddh/rrishiddh/refs/heads/main/hi2.gif" width="25"></h1>
 
 ### Frontend Web Developer
->*Always Learning, Always Growing!*
 
+> _Always Learning, Always Growing!_
 
 ###
+
 <br clear="both">
 
 <h2 align="center"> About Me </h2>
 
 ###
-<p align="left">I'm Rahul Dey, a frontend developer bridging the gap between engineering precision and elegant design. With a background in Electrical and Electronics Engineering, I bring a unique perspective to crafting intuitive and performant web experiences. I'm passionate about React, exploring cutting-edge technologies and building impactful digital products.</p>
 
+<p align="left">As a frontend developer, I see my role as a blend of art and science. My background in Electrical and Electronics Engineering gives me a strong technical foundation, which I use to build robust and efficient web applications. My specialty is Next.js along with React.js and I thrive on transforming complex ideas into elegant, user-friendly digital products that make a real impact.</p>
 
- ###### Currently I'm doing-
-+ Building backend functionality with Mongoose for MongoDB, focusing on CRUD operations.
-+ Strengthening web security protocols and establishing a CI/CD pipeline for efficient deployment.
-+ Deep diving into Next.js, exploring payment gateway integration and utilizing various npm packages.
+###### Currently I'm doing-
+
+- Developing and integrating payment gateway solutions.
+- Deepening my expertise in backend technologies, including Next.js and RDBMS like PostgreSQL, to build full-stack applications.
+- Enhancing web security protocols and implementing a robust CI/CD pipeline for streamlined and efficient deployments.
 
 ###
-<br clear="both">
 
+<br clear="both">
 
 <h2 align="center"> Skills </h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
@@ -73,12 +75,25 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
 </div>
 
 ###
+
 <br clear="both">
 
 <h2 align="center"> My Stats </h2>
